@@ -1,6 +1,6 @@
-# Lox-Compiler-Design
+# C-CPP-Compiler-Design
 
-More about general compiler design than following the footsteps of Lox, with some touches here and there of my own.
+About general compiler design concepts, that include inspirations from Lex/Yacc tutorials, following the footsteps of Lox development using Crafting Interpreters book, the Dragon Book, and some touches here and there of my own.
 
 ## Steps in Compiler Design
 
